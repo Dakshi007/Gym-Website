@@ -2,10 +2,10 @@
 
 On this Website you can see the tutorials to make your body fit and join in our gym also.
 
-This Website was made by Figma. 
+This Website was designed in Figma. 
 
 # E-Commerce App
 
-On this website you can order your items/things in home itself.
+On this app you can order your items/things in home itself.
 
-This Website was made by Figma.
+This app was designed in Figma.
